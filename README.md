@@ -42,7 +42,7 @@ ____
   **6. Fetching the README file.**
   
   **7. Working with github through the building process.**
-   *It's worth mentioning here that we had conflict issues when merging branches but managed to fix it with the help of our super cool instructor.*
+  *It's worth mentioning here that we had conflict issues when merging branches but managed to fix it with the help of our super cool instructor.*
    
    **8. Publsihing to github pages.**
 
