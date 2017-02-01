@@ -399,44 +399,11 @@ header nav li:last-child{
 }
 
 
-.features{
-	background-color: #f7f7f7;
-}
 
-.features .grid li{
-	padding: 30px;
-	flex-basis: 33%;
-	text-align: center;
-}
 
-.features .grid li i{
-    font-size: 50px;
-    color: #2196F3;
-    margin-bottom: 25px;
-}
-
-.features .grid li h4{
-	color: #555;
-    font-size: 20px;
-    margin-bottom: 25px;
-}
-
-.features .grid li p{
-    margin: 0;
-}
-
-@media (max-width: 1000px){
-
-	.features .grid li{
-		flex-basis: 70%;
-		margin-bottom: 65px;
-	}
-
-	.features .grid li:last-child{
-		margin-bottom: 0;
-	}
-
-}
+/*-------------
+ 	Footer
+-------------*/
 
 footer{
 	display: flex;
@@ -485,3 +452,28 @@ footer p a{
 
 }
 
+
+/* -- Demo ads -- */
+
+@media (max-width: 1200px) {
+	#bsaHolder{ display:none;}
+}
+
+#container{
+  width: 100%;
+  float: left;
+ }
+
+#img{
+    width:200px; 
+    height:50px; 
+    background-color:#333; 
+    float:left;
+}
+#par{
+    width:75%; 
+    height:50px; 
+    background-color:#ccc; 
+    margin-right:0; 
+    float:left;
+}
