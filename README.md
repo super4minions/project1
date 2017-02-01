@@ -7,7 +7,7 @@ ____
 * #### *`WHAT`* is Super4minions website.
   A one page portfolio built to give you an overview about who we are as a team of three dedicated, really fun coding bootcamp student-developers! 
 
-  And also to show you what we can do for a first attempt to build a simple wesite from scratch taking into consideration our clients' stories and other features.
+  And also to show you what we can do for a first attempt to build a simple website from scratch taking into consideration our clients' stories and other features.
 
 * #### *`WHY`* are we doing this.
   >“Everybody in this country should learn to program, should learn a computer language because it teaches you how to think.”   —Steve Jobs
@@ -22,7 +22,6 @@ ____
   * Form with Name, email address and Message of the inquirer.
   * Small devices compatibility.
   * Visual impairment compatibility.
-  * Screen reader compatibilty.
   * Old browsers/devices (IE7) compatibility.
 
   **2. Sketching and wireframing.**
@@ -42,8 +41,14 @@ ____
   **6. Fetching the README file.**
 
   **7. Working with github through the building process.**
+<<<<<<< HEAD
   *It's worth mentioning here that we had conflict issues when merging branches but managed to fix it with the help of our super cool instructor.*
 
+=======
+
+  *It's worth mentioning here that we had conflict issues when merging branches but managed to fix it and other git issues with the help of our super cool instructor Besart.*
+   
+>>>>>>> 73d44e9ee70ee892c2cb9fdc0c451684bbfd7ca1
    **8. Publsihing to github pages.**
 
   ***Last note.***

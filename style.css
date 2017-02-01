@@ -136,11 +136,15 @@ header nav li:last-child{
 	min-height: 100vh;
 	color: #fff;
 	text-align: center;
+<<<<<<< HEAD
 }
 .hero p{
 justify-content: block;
 
 }
+=======
+}  
+>>>>>>> 73d44e9ee70ee892c2cb9fdc0c451684bbfd7ca1
 
 
 .hero .background-image{
