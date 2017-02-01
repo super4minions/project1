@@ -26,6 +26,7 @@ ____
   * Old browsers/devices (IE7) compatibility.
 
   **2. Sketching and wireframing.**
+  
 ![alt](https://s30.postimg.org/4vhpxheld/New_Image.jpg)
   * One page layout.
   * Four main sections; Home, About, Team and Contact Us.
