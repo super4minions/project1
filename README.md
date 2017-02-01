@@ -41,14 +41,8 @@ ____
   **6. Fetching the README file.**
 
   **7. Working with github through the building process.**
-<<<<<<< HEAD
   *It's worth mentioning here that we had conflict issues when merging branches but managed to fix it with the help of our super cool instructor.*
 
-=======
-
-  *It's worth mentioning here that we had conflict issues when merging branches but managed to fix it and other git issues with the help of our super cool instructor Besart.*
-   
->>>>>>> 73d44e9ee70ee892c2cb9fdc0c451684bbfd7ca1
    **8. Publsihing to github pages.**
 
   ***Last note.***
