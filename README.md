@@ -28,11 +28,9 @@ ____
   **2. Sketching and wireframing.**
   
 ![alt](https://s30.postimg.org/4vhpxheld/New_Image.jpg)
-
- &nbsp;  
-..* One page layout.
-..* Four main sections; Home, About, Team and Contact Us.
-..* Each section is conected via JavaScript to its menu button.
+   * One page layout.
+   + Four main sections; Home, About, Team and Contact Us.
+   + Each section is conected via JavaScript to its menu button.
 
   **3. Writing the `HTML` code.**
   
