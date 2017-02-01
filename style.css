@@ -114,7 +114,7 @@ header nav li:last-child{
 
 @media (max-width: 1000px){
 	header{
-		padding: 20px 50px;
+		padding: 5px 50px;
 	}
 }
 
@@ -131,9 +131,6 @@ header nav li:last-child{
 
 
 
-/*----------------
- 	Hero Section
-----------------*/
 
 .hero{
 	position: relative;
@@ -142,6 +139,11 @@ header nav li:last-child{
 	color: #fff;
 	text-align: center;
 }
+.hero p{
+justify-content: block;
+
+}
+
 
 .hero .background-image{
 	position: absolute;
@@ -288,13 +290,13 @@ header nav li:last-child{
     padding-top: 66.6%;
   }
 }
-.card__image--fence {
+.card__image--1member {
   background-image: url(img/moha.jpg);
 }
-.card__image--river {
+.card__image--2member {
   background-image: url(img/ghada.jpg);
 }
-.card__image--record {
+.card__image--3member {
   background-image: url(img/abdo.png);
 }
 
@@ -327,8 +329,7 @@ header nav li:last-child{
   box-sizing: border-box;
 }
 
-.flex-outer,
-.flex-inner {
+.flex-outer,{
   list-style-type: none;
   padding: 0;
 }
@@ -338,17 +339,13 @@ header nav li:last-child{
   margin: 0 auto;
 }
 
-.flex-outer li,
-.flex-inner {
+.flex-outer li{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
 
-.flex-inner {
-  padding: 0 8px;
-  justify-content: space-between;  
-}
+
 
 .flex-outer > li:not(:last-child) {
   margin-bottom: 20px;
@@ -368,21 +365,18 @@ header nav li:last-child{
   max-width: 220px;
 }
 
-.flex-outer > li > label + *,
-.flex-inner {
+.flex-outer > li > label + * {
   flex: 1 0 220px;
 }
 
 .flex-outer li p {
   margin: 0;
 }
-
 .flex-outer li input:not([type='checkbox']),
 .flex-outer li textarea {
   padding: 15px;
   border: none;
 }
-
 .flex-outer li button {
   margin-left: auto;
   padding: 8px 16px;
@@ -393,51 +387,9 @@ header nav li:last-child{
   letter-spacing: .09em;
   border-radius: 2px;
 }
-
-.flex-inner li {
-  width: 100px;
-}
-
-
 .features{
 	background-color: #f7f7f7;
 }
-
-.features .grid li{
-	padding: 30px;
-	flex-basis: 33%;
-	text-align: center;
-}
-
-.features .grid li i{
-    font-size: 50px;
-    color: #2196F3;
-    margin-bottom: 25px;
-}
-
-.features .grid li h4{
-	color: #555;
-    font-size: 20px;
-    margin-bottom: 25px;
-}
-
-.features .grid li p{
-    margin: 0;
-}
-
-@media (max-width: 1000px){
-
-	.features .grid li{
-		flex-basis: 70%;
-		margin-bottom: 65px;
-	}
-
-	.features .grid li:last-child{
-		margin-bottom: 0;
-	}
-
-}
-
 footer{
 	display: flex;
 	flex-direction: column;
@@ -445,43 +397,11 @@ footer{
 	text-align: center;
 	color: #fff;
 	background-color: #414a4f;
-	padding: 60px 0;
+	padding: 80px 15px;
 }
-
-footer ul{
-	display: flex;
-	margin-bottom: 25px;
-	font-size: 32px;
-}
-
-footer ul li{
-	margin: 0 8px;	
-}
-
-footer ul li:first-child{
-	margin-left: 0;	
-}
-
-footer ul li:last-child{
-	margin-right: 0;	
-}
-
 footer p{
 	text-transform: uppercase;
 	font-size: 14px;
 	color: rgba(255,255,255,0.6);
 	margin-bottom: 10px;
 }
-
-footer p a{
-	color: #fff;
-}
-
-@media (max-width: 700px){
-
-	footer{
-		padding: 80px 15px;
-	}
-
-}
-
