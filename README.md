@@ -29,7 +29,8 @@ ____
  Wireframed as follows:
   * One page layout.
   * Four main sections; Home, About, Team and Contact Us.
-  * Each section is conected via JavaScript to its menu button.
+  * Each section is connected to its menu button in the html code without using JS.
+  
   ![alt](https://s30.postimg.org/4vhpxheld/New_Image.jpg)
    
   **3. Writing the `HTML` code.**
