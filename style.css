@@ -141,7 +141,8 @@ header nav li:last-child{
 	min-height: 100vh;
 	color: #fff;
 	text-align: center;
-}
+}  
+
 
 .hero .background-image{
 	position: absolute;
